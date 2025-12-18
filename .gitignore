@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Do not commit data/models
+data/raw/
+data/processed/
+models/
+outputs/
